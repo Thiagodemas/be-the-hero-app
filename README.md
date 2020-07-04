@@ -1,14 +1,14 @@
 
 <h1 align="center">
-    <img alt="Be the Hero 1" src="./tela1.jpeg"  
+    <img alt="Be the Hero 1" src="./tela1.jpeg"      width= "240px"
      style="border-radius:16px;"/>
 </h1>
 <h1 align="center">
-    <img alt="Be the Hero 2" src="./tela2.jpeg" 
+    <img alt="Be the Hero 2" src="./tela2.jpeg" width= "240px"
     style="border-radius:16px;"/>
 </h1>
 <h1 align="center">
-    <img alt="Be the Hero 3" src="./tela3.jpeg" 
+    <img alt="Be the Hero 3" src="./tela3.jpeg" width= "240px"
     style="border-radius:16px;"/>
 </h1>
 
